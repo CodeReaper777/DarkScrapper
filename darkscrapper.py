@@ -34,9 +34,7 @@ def main():
             print("[yellow][*] Run: sudo python multi-tor.py")
             sys.exit(1)
         print("[bold green][+] Starting the onion URL check [/bold green]")
-        # print(PROXIES)
         run_checker(arg.urls, arg.blacklist, arg.threads, arg.retires, arg.timeout)
-        # print("[bold green][+] Starting the onion URL check [/bold green]")
     else:
         parser.print_help()
 

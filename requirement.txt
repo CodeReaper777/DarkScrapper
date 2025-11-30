@@ -1,4 +1,8 @@
 requests
 tqdm
 rich
+<<<<<<< HEAD
 beautifulsoup4
+=======
+beautifulsoup4
+>>>>>>> 3c96d09 (initial commit)
