@@ -49,7 +49,7 @@ cd DarkScrapper
 ## Usage (Minimum)
 
 
-## 🧹 Create/Start/Stop Tor Instances
+## Create/Start/Stop Tor Instances
 
 ```bash
 sudo python3 multi-tor.py
