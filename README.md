@@ -16,8 +16,8 @@ This tool helps you:
 * Multi-threaded URL checking
 * Multiple Tor instance support
 * Automatic torrc generation
-* Auto-stop all running instances
-* Clean JSON + TXT output
+* Start-stop all running instances
+* Crawling for .onion sites
 
 ---
 
